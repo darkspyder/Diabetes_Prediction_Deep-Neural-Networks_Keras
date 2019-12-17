@@ -5,4 +5,4 @@ The data set is small with 750 odd training examples, which have been further di
 
 Considering only 600 examples to train with the model outputs an accuracy of 79.2%, ahead of Gradient boosting classifier and random forest classifier (at 78.2% accuarcy each).
 
-Further, the model produces low Type II error, that is, not correctly identifying a case of diabetes.
+Further, the model produces low Type II error, that is, not correctly identifying a case of diabetes (13 cases out of 67 cases of diabetes incorrectly classified).
